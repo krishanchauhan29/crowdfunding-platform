@@ -4,7 +4,8 @@ A blockchain-powered crowdfunding platform that enables users to create fundrais
 ⸻
 🚀 Live Demo
 
-👉 Click here to try the live app
+👉 Click here to try the live app 
+https://crowdfunding-lyart-rho.vercel.app/
 ⸻
 📌 Problem Statement
 
