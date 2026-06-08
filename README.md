@@ -31,30 +31,6 @@ Blockchain	Ethereum + MetaMask (Web3)
 Build Tool	Vite
 Deployment	Vercel
 ⸻
-📂 Project Structure
-
-crowdfunding-platform/
-├── src/
-│   ├── components/
-│   │   ├── ui/                  # shadcn/ui component library
-│   │   ├── CampaignCard.tsx     # Campaign display card
-│   │   └── WalletConnect.tsx    # MetaMask wallet connection
-│   ├── pages/
-│   │   ├── Index.tsx            # Home — browse all campaigns
-│   │   ├── Create.tsx           # Create new campaign form
-│   │   └── CampaignDetails.tsx  # Individual campaign view
-│   ├── hooks/
-│   │   └── use-toast.ts         # Toast notification hook
-│   ├── lib/
-│   │   └── utils.ts             # Utility functions
-│   └── App.tsx                  # Root component with routing
-├── public/
-├── index.html
-├── vite.config.ts
-├── tailwind.config.ts
-└── package.json
-
-⸻
 ⚙️ Installation & Setup
 
 Prerequisites
@@ -128,6 +104,6 @@ This project is open source and available under the MIT License.
 
 | Name | GitHub | Role |
 |------|--------|------|
-| Krishan Kumar Chauhan | [@krishanchauhan29](https://github.com/krishanchauhan29) | Co-Developer |
+| Krishan Kumar Chauhan | [@krishanchauhan29](https://github.com/krishanchauhan29) |Co- Developer |
 | Aman Chaudhary | [@shivam_nagar](https://github.com/amn-00) | Co-Developer |
 | Shivam Nagar | [@shivam_nagar](https://github.com/shivam_nagar) | Co-Developer |
